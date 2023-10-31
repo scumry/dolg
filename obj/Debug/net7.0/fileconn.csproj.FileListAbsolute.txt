@@ -1,0 +1,14 @@
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\bin\Debug\net7.0\fileconn.exe
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\bin\Debug\net7.0\fileconn.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\bin\Debug\net7.0\fileconn.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\bin\Debug\net7.0\fileconn.dll
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\bin\Debug\net7.0\fileconn.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.dll
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\refint\fileconn.dll
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\fileconn.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\fileconn\obj\Debug\net7.0\ref\fileconn.dll
